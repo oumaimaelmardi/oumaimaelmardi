@@ -6,7 +6,8 @@
 
 <h3 align="center">
        <samp>&gt; Hey There!, I am
-                <b>EL MARDI OUMAIMA</b>
+                <b>EL MARDI OUMAIMA 👋❤️
+</b>
         </samp>
 </h3>
 
@@ -14,7 +15,7 @@
   <samp>
    <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>-->
     <br>
-    「 I am a SOFTWARE ENGINEER 」
+    「 I am a SOFTWARE ENGINEER 🖥️ ☕ 」
     <br>
     <br>
   </samp>
