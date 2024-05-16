@@ -1,7 +1,10 @@
 <a href="https://komarev.com/ghpvc/?username=oumaimaelmardi">
-  <img align="right" src="https://komarev.com/ghpvc/?username=oumaimaelmardi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
+
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 
 <h3 align="center">
        <samp>&gt; Hey There!, I am
@@ -11,7 +14,7 @@
 
 <p align="center"> 
   <samp>
-  <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
+ 
     <br>
     「 I am a SOFTWARE ENGINEER 」
     <br>
@@ -22,7 +25,7 @@
 
 <p align="center">
 
- <a href=https://www.linkedin.com/in/oumaima-el-mardi-1188a2209/" target="_blank">
+ <a href="https://www.linkedin.com/in/oumaima-el-mardi-1188a2209/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="elmardioumaima"/>
  </a>
  
@@ -93,5 +96,5 @@
   <br/>
 </a>
 
-![Oumaima's Graph](https://github-readme-activity-graph.vercel.app/graph?username=oumaimaelmardi&custom_title=Oum%20aim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Oumaima's Graph](https://github-readme-activity-graph.vercel.app/graph?username=oumaimaelmardi&custom_title=Oumaima's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
